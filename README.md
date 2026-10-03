@@ -380,6 +380,6 @@ The project contains the following main notebooks:
 
 ## 👩‍💻 Author
 
-**Jyothika J.**
+**Jyothika J**
 
 Currently pursuing B.Tech Computer Science and Engineering with specialization in Data Science
